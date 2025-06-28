@@ -1,0 +1,4 @@
+Hosts on local network: 192.168.46.39,101,102,234.
+Open port on 192.168.46.101 - 53/tcp domain dnsmasq 2.51 (VULNERABLE)
+Open port on 192.168.46.102 - 7680/tcp pando-pub?
+Open port on 192.168.46.39 - 7680/tcp pando-pub?

@@ -11,7 +11,7 @@ This analysis was conducted using a phishing email emulator. The purpose is to i
 - The sender email appears suspicious (`support@payypal[.]net`) — it’s spoofed to look like a legit PayPal domain.
 - Displayed as “Paypal Support” but domain is fake.
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](Screenshots/screenshot1.png)
 
 ---
 
@@ -20,7 +20,7 @@ This analysis was conducted using a phishing email emulator. The purpose is to i
   `javascript:window.parent.$('#webModal').modal('show');`
 - This is a red flag — it hides the true destination.
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](Screenshots/screenshot2.png)
 
 ---
 
@@ -29,7 +29,7 @@ This analysis was conducted using a phishing email emulator. The purpose is to i
 - It asks for email and password.
 - If entered, these credentials would be stolen.
 
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 3](Screenshots/screenshot3.png)
 
 ---
 
